@@ -52,8 +52,8 @@ var/
 sdist/
 develop-eggs/
 .installed.cfg
-lib/
 lib64/
+# Note: 'lib/' intentionally NOT ignored — frontend/lib/ must be tracked
 
 # pytest / coverage
 .pytest_cache/
