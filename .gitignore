@@ -22,6 +22,8 @@ pnpm-lock.yaml
 # ===========================
 # PYTHON / FASTAPI (Backend)
 # ===========================
+.venv*/
+.venv39/
 __pycache__/
 *.py[cod]
 *$py.class
